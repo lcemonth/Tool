@@ -5,7 +5,7 @@ public class Test {
 	public static void main(String[] args) {
 		RanPwd ranPwd =new RanPwd();
 		
-		System.out.println("數字: "+ ranPwd.Digitally(6));
+		System.out.println("數字: "+ ranPwd.Digitally(9));
 		System.out.println("小寫英文: "+ ranPwd.SmallEnglish(6));
 		System.out.println("大寫英文: "+ ranPwd.BigEnglish(6));
 		System.out.println("小大數字: "+ ranPwd.Mixing(6));
