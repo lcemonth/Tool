@@ -3,7 +3,6 @@ package tool;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		RanPwd ranPwd =new RanPwd();
 		
 		System.out.println("¼Æ¦r: "+ ranPwd.Digitally(6));
